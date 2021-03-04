@@ -1,14 +1,14 @@
-## What is Vue Modern Resume?
+## What is Siphenathi Resume?
 
-Vue Modern Resume is basically a simple (yet easy to setup) resume template based on <a href="https://vuejs.org/">Vue.js</a> framework and <a href="https://vuetifyjs.com/">Vuetify</a> UI toolkit.
+What is Siphenathi Resume is basically a simple (yet easy to setup) resume based on <a href="https://vuejs.org/">Vue.js</a> framework and <a href="https://vuetifyjs.com/">Vuetify</a> UI toolkit.
 
 ## How to use
 
-3. Run `npm install`.
+3. Run `npm install` or `yarn install`.
 
 4. Customize your resume
 
-5. Preview resume with `npm serve`.
+5. Preview resume with `npm serve `or `yarn serve`.
 
 6. Build it with `npm build`.
 
