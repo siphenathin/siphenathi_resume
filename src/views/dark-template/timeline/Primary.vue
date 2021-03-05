@@ -138,7 +138,7 @@ export default {
               <li>Monitor quality assurance activities throughout the life cycle of the project</li>
                   `,
         
-          iconImage: 'img/timeline/analysis.png',
+          iconImage: 'img/timeline/analysis_1.png',
       },
       {
         year : '2019-Current',
@@ -155,7 +155,7 @@ export default {
                  <li> Conducting development tests. </li>
                   `,
         
-          iconImage: 'img/timeline/icon-dev.png',
+          iconImage: 'img/timeline/icon-dev_1.png',
       },
     ],
   }),
