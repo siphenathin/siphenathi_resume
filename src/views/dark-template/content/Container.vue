@@ -6,6 +6,7 @@
     <v-card-text>
       <content-section
         title="Who am I?"
+        class="font-weight-regular"
       >Knowledgeable Junior Software Developer skilled in basic business analysis and agile development. I have a sound experience in technologies and systems such as NodeJs, VueJs, MongoDB, Bitbucket, PostgresSQL, Nuxtjs, Expressjs, GitHub, BitBucket, SourceTree, Json, Jira, Postman, GitKranken, NPM/Yarn, Java, Python Vuex JavaScript, TypeScript etc. Committed to ensuring that I am a good team player. Experienced in working with teams of professionals to achieve the highest level of successful production. 
       </content-section>
       <content-section
@@ -158,6 +159,16 @@ export default {
         icon : 'mdi-windows',
         value: 90,
       },
+       {
+        title: 'DevOps',
+        icon : 'mdi-circle',
+        value: 90,
+      },
+       {
+        title: 'Agile',
+        icon : 'mdi-circle',
+        value: 90,
+      },
       { divider: true },
       {
         title: 'Ubuntu OS',
@@ -177,7 +188,7 @@ export default {
       {
         title: 'Node.js',
         icon : 'mdi-nodejs',
-        value: 26,
+        value: 60,
       },
       {
         title: 'Express.js Framework',
@@ -209,17 +220,17 @@ export default {
       {
         title: 'MySQL',
         icon : 'mdi-database',
-        value: 96,
+        value: 60,
       },
       {
         title: 'MongoDB',
         icon : 'mdi-database',
-        value: 96,
+        value: 50,
       },
       {
         title: 'Azure',
         icon : 'mdi-cloud',
-        value: 96,
+        value: 50,
       },
     ],
   }),

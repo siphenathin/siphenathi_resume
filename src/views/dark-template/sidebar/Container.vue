@@ -1,6 +1,6 @@
 <template>
   <v-card
-    color="grey darken-3"
+    color="brown darken-4"
     dark
   >
     <v-card-text>
