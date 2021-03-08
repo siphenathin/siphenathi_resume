@@ -120,7 +120,7 @@ export default {
        {
         from       : '2020',
         to         : 'Current',
-        title      : 'Honours in Computer Computing',
+        title      : 'Honours in Computing',
         location   : 'University of South Africa',
       },
       {

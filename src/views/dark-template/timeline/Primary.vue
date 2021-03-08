@@ -142,7 +142,7 @@ export default {
       },
       {
         year : '2019-Current',
-        title: 'Worked as a Junior Software Developer at Experian',
+        title: 'Works as a Junior Software Developer at Experian',
         html : `Doing the following but not limited:
                 <li>Assisting the Development Manager with all aspects of software design and coding.</li>
                 <li> Learning and improving my coding skills. </li>
