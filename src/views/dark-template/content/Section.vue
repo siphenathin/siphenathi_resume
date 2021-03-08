@@ -41,7 +41,7 @@ export default {
 
 <style scoped>
 .title {
-  border-bottom: 2px #bfbfbf solid;
+  border-bottom: 2px #0f0e0e solid;
   line-height: 1.5 !important;
 }
 </style>
