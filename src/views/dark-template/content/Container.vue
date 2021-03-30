@@ -161,7 +161,7 @@ export default {
     ],
     certificates:[
        {
-        from       : '2019-April',
+        from       : '2020-April',
         to         : '2021-April',
         title      : 'Project Management',
         location   : 'Experian',
