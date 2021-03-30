@@ -7,7 +7,7 @@
       <content-section
         title="Who am I?"
         class="font-weight-regular"
-      >Knowledgeable Junior Software Developer skilled in basic business analysis and agile development. I have a sound experience in technologies and systems such as NodeJs, VueJs, MongoDB, Bitbucket, PostgresSQL, Nuxtjs, Expressjs, GitHub, BitBucket, SourceTree, Json, Jira, Postman, GitKranken, NPM/Yarn, Java, Python Vuex JavaScript, TypeScript etc. Committed to ensuring that I am a good team player. Experienced in working with teams of professionals to achieve the highest level of successful production. 
+      >Knowledgeable Junior Software Developer skilled in basic business analysis and agile development. I have a sound experience in technologies and systems such as NodeJs, VueJs, MongoDB, Bitbucket, PostgresSQL, Nuxtjs, Expressjs, GitHub, BitBucket, SourceTree, Json, Jira, Postman, GitKranken, NPM/Yarn, Java, Python, Vuex, JavaScript, TypeScript etc. Committed to ensuring that I am a good team player. Experienced in working with teams of professionals to achieve the highest level of successful production. 
       </content-section>
       <content-section
         v-if="prouds.length"
@@ -54,6 +54,28 @@
             </div>
             <div v-if="education.description">
               {{ education.description }}
+            </div>
+          </v-flex>
+        </v-layout>
+      </content-section>
+        <content-section
+        v-if="certificates"
+        title="Certifications"
+      >
+        <v-layout
+          v-for="(certificates, i) in certificates"
+          :key="i"
+        >
+          <v-flex md4>
+            {{ certificates.from }} - {{ certificates.to }}
+          </v-flex>
+          <v-flex md8>
+            <strong v-if="certificates.title">{{ certificates.title }}</strong>
+            <div v-if="certificates.location">
+              <i>{{ certificates.location }}</i>
+            </div>
+            <div v-if="certificates.description">
+              {{ certificates.description }}
             </div>
           </v-flex>
         </v-layout>
@@ -135,6 +157,21 @@ export default {
         title      : 'Matric',
         location   : 'Simanyene High School',
         description : '2007 started grade 10, and done grade 12 in 2009'
+      },
+    ],
+    certificates:[
+       {
+        from       : '2019-April',
+        to         : '2021-April',
+        title      : 'Project Management',
+        location   : 'Experian',
+      },
+       {
+        from       : '2019-Jan',
+        to         : '2020 - June',
+        title      : 'Business Administration',
+        location   : 'Experian',
+     
       },
     ],
     skills: [
