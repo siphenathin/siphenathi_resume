@@ -141,8 +141,8 @@ export default {
           iconImage: 'img/timeline/analysis_1.png',
       },
       {
-        year : '2019-Current',
-        title: 'Works as a Junior Software Developer at Experian',
+        year : '2019-2021',
+        title: 'Worked as a Junior Software Developer at Experian',
         html : `Doing the following but not limited:
                 <li>Assisting the Development Manager with all aspects of software design and coding.</li>
                 <li> Learning and improving my coding skills. </li>
