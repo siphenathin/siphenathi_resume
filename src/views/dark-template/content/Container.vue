@@ -95,7 +95,7 @@ export default {
     educations: [
       {
         from: "2020",
-        to: "Current",
+        to: "Currently Paused!",
         title: "Honours in Computing",
         location: "University of South Africa",
       },
