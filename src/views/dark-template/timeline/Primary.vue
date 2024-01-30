@@ -157,6 +157,20 @@ export default {
         
           iconImage: 'img/timeline/icon-dev_1.png',
       },
+      {
+        year : '2022-Present',
+        title: 'Working as System Analyst at Capitec Banks',
+        html : `Doing the following but not limited:
+                <li>Analyzing and evaluating current systems. </li>
+              <li> Identifying new system requirements. </li>
+              <li>Suggesting solutions for process improvement. </li>
+              <li> Communicating with users to understand their additional requirements and needs. </li>
+              <li> Working with IT team and developers to produce new and improve existing systems. </li>
+                 <li> Designing and testing standards and solutions to help the organization operate more efficiently and effectively </li>
+                  `,
+        
+          iconImage: 'img/timeline/icon-dev_1.png',
+      },
     ],
   }),
   computed: {
