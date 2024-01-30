@@ -55,7 +55,7 @@
         <v-layout wrap>
           <template v-for="(skill, i) in skills">
             <v-flex v-if="skill.divider" :key="i" md12 xs12 mb-4 />
-            <v-flex v-else :key="i" md6 xs12>
+            <v-flex v-else :key="i+1" md6 xs12>
               <div class="mr-2 ml-2">
                 <div class="align-center">
                   <v-icon small>
