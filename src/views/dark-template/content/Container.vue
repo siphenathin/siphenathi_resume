@@ -2,14 +2,7 @@
   <v-card color="grey lighten-4" light>
     <v-card-text>
       <content-section title="Who am I?" class="font-weight-regular"
-        >Knowledgeable Junior Software Developer skilled in basic business
-        analysis and agile development. I have a sound experience in
-        technologies and systems such as NodeJs, VueJs, MongoDB, Bitbucket,
-        PostgresSQL, Nuxtjs, Expressjs, GitHub, BitBucket, SourceTree, Json,
-        Jira, Postman, GitKranken, NPM/Yarn, Java, Python, Vuex, JavaScript,
-        TypeScript etc. Committed to ensuring that I am a good team player.
-        Experienced in working with teams of professionals to achieve the
-        highest level of successful production.
+        >Knowledgeable Logician.
       </content-section>
       <content-section v-if="prouds.length" title="What am I proud of?">
         <v-layout v-for="(proud, i) in prouds" :key="i">
