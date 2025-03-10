@@ -10,7 +10,7 @@
           Siphenathi <span class="primary--text text--lighten-3">Ndabazonke</span>
         </h1>
         <span>
-          Junior Software Developer
+          💻 Software Engineer | Business Analyst | System Analyst | Data Science Enthusiast 📊
         </span>
       </div>
 
@@ -89,7 +89,7 @@ export default {
             {
               name: 'Birth Date',
               icon: 'mdi-cake-variant',
-              text: '01-Nov-1987',
+              text: '01-Nov-YYYY',
             },
             {
               name: 'Strand',
@@ -111,7 +111,7 @@ export default {
               text: 'linkedin.com/in/siphenathi-ndabazonke-74a669110/',
               link: 'https://www.linkedin.com/in/siphenathi-ndabazonke-74a669110/',
             },
-        
+
           ],
         },
         hobbies: {
@@ -122,12 +122,12 @@ export default {
               icon: 'mdi-biohazard',
               text: 'Challenges',
             },
-           
+
             {
               icon: 'mdi-image-filter-hdr',
               text: 'Nature',
             },
-            
+
             {
               icon: 'mdi-teach',
               text: 'Teaching',
@@ -165,7 +165,7 @@ export default {
               text : 'IsiXhosa',
               value: 100,
             },
-           
+
           ],
         },
       },

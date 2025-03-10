@@ -137,8 +137,8 @@ export default {
                 <li>Develop functional specifications.</li>
               <li>Monitor quality assurance activities throughout the life cycle of the project</li>
                   `,
-        
-          iconImage: 'img/timeline/analysis_1.png',
+
+        iconImage: 'img/timeline/analysis_1.png',
       },
       {
         year : '2019-2021',
@@ -154,22 +154,25 @@ export default {
               <li> Writing reports. </li>
                  <li> Conducting development tests. </li>
                   `,
-        
-          iconImage: 'img/timeline/icon-dev_1.png',
+
+        iconImage: 'img/timeline/icon-dev_1.png',
       },
       {
         year : '2022-Present',
         title: 'Working as System Analyst at Capitec Banks',
-        html : `Doing the following but not limited:
-                <li>Analyzing and evaluating current systems. </li>
-              <li> Identifying new system requirements. </li>
-              <li>Suggesting solutions for process improvement. </li>
-              <li> Communicating with users to understand their additional requirements and needs. </li>
-              <li> Working with IT team and developers to produce new and improve existing systems. </li>
-                 <li> Designing and testing standards and solutions to help the organization operate more efficiently and effectively </li>
+        html : `As a System Analyst/System Support Analyst at Capitec Bank, my role revolves around monitoring, troubleshooting, and optimizing IT systems to ensure seamless banking operations.
+          <li> A key aspect of my job involves working with Splunk, where I analyze logs, generate reports, and set up alerts to proactively identify and resolve system issues.</li>
+          <li> My daily tasks include: </li>
+
+          <li> System Monitoring & Troubleshooting: Using Splunk and other tools to track system performance, investigate errors, and resolve incidents. </li>
+          <li> Log Analysis & Reporting: Extracting insights from system logs to enhance operational efficiency and detect potential risks. </li>
+          <li> Incident Management: Collaborating with different teams to resolve technical issues, ensuring minimal downtime and business continuity. </li>
+          <li> Automation & Optimization: Developing dashboards, alerts, and automated reports to improve system monitoring and issue detection. </li>
+          <li> Support & Communication: Assisting internal teams with system-related queries and ensuring that IT infrastructure aligns with business needs. </li>
+          <li> Overall, my role is crucial in maintaining the stability, security, and performance of Capitec Bank’s IT systems, ensuring a smooth banking experience for customers. </li>
                   `,
-        
-          iconImage: 'img/timeline/icon-dev_1.png',
+
+        iconImage: 'img/timeline/icon-dev_1.png',
       },
     ],
   }),
